@@ -1,0 +1,10 @@
+START HERE
+1. Extract ZIP.
+2. Open PowerShell in extracted folder.
+3. py -m venv .venv
+4. .\.venv\Scripts\Activate.ps1
+5. pip install -r requirements.txt
+6. python run_project.py
+7. python generate_report.py
+8. Confirm repository URL, then export report to PDF.
+See README.md for details.
